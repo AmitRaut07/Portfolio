@@ -434,3 +434,8 @@ nav{
   display: flex;
   justify-content: space-between;
 }
+
+.chatbot{
+    width: 100px;
+    height: 100px;
+}
